@@ -1,0 +1,157 @@
+,path,file_id,sequence_id,phrase
+754,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongdep_gx_1,không đẹp
+1512,./dataset/train_landmark_files/VSL50.parquet,VSL50,depkhong(nguoi)_pg_5,đẹp không(người)
+898,./dataset/train_landmark_files/VSL50.parquet,VSL50,lau_tx_1,lâu
+272,./dataset/train_landmark_files/VSL50.parquet,VSL50,chame_tg_4,cha mẹ
+958,./dataset/train_landmark_files/VSL50.parquet,VSL50,muonkhong_tg_3,muốn không
+1185,./dataset/train_landmark_files/VSL50.parquet,VSL50,thitham_gg_2,thì thầm
+1164,./dataset/train_landmark_files/VSL50.parquet,VSL50,phaikhong_pg_2,phải không
+414,./dataset/train_landmark_files/VSL50.parquet,VSL50,cankhong_gx_2,cần không
+1019,./dataset/train_landmark_files/VSL50.parquet,VSL50,mytom_px_2,mỳ tôm
+28,./dataset/train_landmark_files/VSL50.parquet,VSL50,bame_tx_4,ba mẹ
+261,./dataset/train_landmark_files/VSL50.parquet,VSL50,chame_pg_3,cha mẹ
+576,./dataset/train_landmark_files/VSL50.parquet,VSL50,hua_pg_4,hứa
+589,./dataset/train_landmark_files/VSL50.parquet,VSL50,hua_tx_2,hứa
+323,./dataset/train_landmark_files/VSL50.parquet,VSL50,contrai_gx_5,con trai
+817,./dataset/train_landmark_files/VSL50.parquet,VSL50,khodai_gx_2,khờ dại
+546,./dataset/train_landmark_files/VSL50.parquet,VSL50,hen_pg_5,hẹn
+349,./dataset/train_landmark_files/VSL50.parquet,VSL50,conban_gg_4,còn bạn
+665,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongcan_gx_5,không cần
+1341,./dataset/train_landmark_files/VSL50.parquet,VSL50,tugiac_tx_5,tự giác
+985,./dataset/train_landmark_files/VSL50.parquet,VSL50,me_px_4,mẹ
+828,./dataset/train_landmark_files/VSL50.parquet,VSL50,khodai_px_3,khờ dại
+567,./dataset/train_landmark_files/VSL50.parquet,VSL50,hua_gg_5,hứa
+708,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongmuon_tg_2,không muốn
+721,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongnen_gg_4,không nên
+1551,./dataset/train_landmark_files/VSL50.parquet,VSL50,diachi_tg_3,địa chỉ
+1307,./dataset/train_landmark_files/VSL50.parquet,VSL50,tuchoi_tx_2,từ chối
+496,./dataset/train_landmark_files/VSL50.parquet,VSL50,hangngay_tx_2,hàng ngày
+937,./dataset/train_landmark_files/VSL50.parquet,VSL50,muonkhong_gg_3(1),muốn không
+66,./dataset/train_landmark_files/VSL50.parquet,VSL50,ban_gg_4,bạn
+1214,./dataset/train_landmark_files/VSL50.parquet,VSL50,thitham_tx_5,thì thầm
+175,./dataset/train_landmark_files/VSL50.parquet,VSL50,bome_px_5,bố mẹ
+1213,./dataset/train_landmark_files/VSL50.parquet,VSL50,thitham_tx_4,thì thầm
+427,./dataset/train_landmark_files/VSL50.parquet,VSL50,cankhong_px_5,cần không
+251,./dataset/train_landmark_files/VSL50.parquet,VSL50,chame_gg_3,cha mẹ
+1529,./dataset/train_landmark_files/VSL50.parquet,VSL50,diachi_gg_1,địa chỉ
+58,./dataset/train_landmark_files/VSL50.parquet,VSL50,buontham_tx_2,buồn thảm
+407,./dataset/train_landmark_files/VSL50.parquet,VSL50,có_không,có không
+531,./dataset/train_landmark_files/VSL50.parquet,VSL50,hap_dan,hấp dẫn
+424,./dataset/train_landmark_files/VSL50.parquet,VSL50,cankhong_px_2,cần không
+825,./dataset/train_landmark_files/VSL50.parquet,VSL50,khodai_pg_5,khờ dại
+748,./dataset/train_landmark_files/VSL50.parquet,VSL50,không_nên-miền_nam,không nên
+699,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongmuon_pg_3,không muốn
+807,./dataset/train_landmark_files/VSL50.parquet,VSL50,khanang_tx_3,khả năng
+308,./dataset/train_landmark_files/VSL50.parquet,VSL50,congai_tx_2,con gái
+1387,./dataset/train_landmark_files/VSL50.parquet,VSL50,van_pg_4,vẫn
+249,./dataset/train_landmark_files/VSL50.parquet,VSL50,chame_gg_1,cha mẹ
+169,./dataset/train_landmark_files/VSL50.parquet,VSL50,bome_pg_4,bố mẹ
+976,./dataset/train_landmark_files/VSL50.parquet,VSL50,me_gx_5,mẹ
+838,./dataset/train_landmark_files/VSL50.parquet,VSL50,khodai_tx_3,khờ dại
+768,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongdep_px_5,không đẹp
+871,./dataset/train_landmark_files/VSL50.parquet,VSL50,ketban_tx_5,kết bạn
+744,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongnen_tx_2,không nên
+907,./dataset/train_landmark_files/VSL50.parquet,VSL50,mayman_gg_4,may mắn
+1340,./dataset/train_landmark_files/VSL50.parquet,VSL50,tugiac_tx_4,tự giác
+1375,./dataset/train_landmark_files/VSL50.parquet,VSL50,van_gg_2,vẫn
+859,./dataset/train_landmark_files/VSL50.parquet,VSL50,ketban_px_3,kết bạn
+623,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongcho_tx_5,không cho
+346,./dataset/train_landmark_files/VSL50.parquet,VSL50,conban_gg_1,còn bạn
+1499,./dataset/train_landmark_files/VSL50.parquet,VSL50,depkhong(nguoi)_gg_2,đẹp không(người)
+1085,./dataset/train_landmark_files/VSL50.parquet,VSL50,nenkhong_tx_1,nên không
+1302,./dataset/train_landmark_files/VSL50.parquet,VSL50,tuchoi_tg_2,từ chối
+357,./dataset/train_landmark_files/VSL50.parquet,VSL50,conban_pg_2,còn bạn
+530,./dataset/train_landmark_files/VSL50.parquet,VSL50,hapdan_tx_5,hấp dẫn
+1186,./dataset/train_landmark_files/VSL50.parquet,VSL50,thitham_gg_3,thì thầm
+956,./dataset/train_landmark_files/VSL50.parquet,VSL50,muonkhong_tg_1,muốn không
+1371,./dataset/train_landmark_files/VSL50.parquet,VSL50,voduyen_tx_4,vô duyên
+990,./dataset/train_landmark_files/VSL50.parquet,VSL50,me_tg_4,mẹ
+228,./dataset/train_landmark_files/VSL50.parquet,VSL50,bucminh_pg_1,bực mình
+130,./dataset/train_landmark_files/VSL50.parquet,VSL50,bantrai_gx_1,bạn trai
+906,./dataset/train_landmark_files/VSL50.parquet,VSL50,mayman_gg_3,may mắn
+116,./dataset/train_landmark_files/VSL50.parquet,VSL50,bangai_tg_3,bạn gái
+1475,./dataset/train_landmark_files/VSL50.parquet,VSL50,depkhong_gx_3,đẹp không
+502,./dataset/train_landmark_files/VSL50.parquet,VSL50,hapdan_gg_2,hấp dẫn
+1037,./dataset/train_landmark_files/VSL50.parquet,VSL50,nhavesinh_gx_3,nhà vệ sinh
+253,./dataset/train_landmark_files/VSL50.parquet,VSL50,chame_gg_5,cha mẹ
+1516,./dataset/train_landmark_files/VSL50.parquet,VSL50,depkhong(nguoi)_px_4,đẹp không(người)
+617,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongcho_tg_4,không cho
+254,./dataset/train_landmark_files/VSL50.parquet,VSL50,chame_gx_1,cha mẹ
+1174,./dataset/train_landmark_files/VSL50.parquet,VSL50,phaikhong_tg_2,phải không
+180,./dataset/train_landmark_files/VSL50.parquet,VSL50,bome_tg_5,bố mẹ
+49,./dataset/train_landmark_files/VSL50.parquet,VSL50,buontham_px_3,buồn thảm
+31,./dataset/train_landmark_files/VSL50.parquet,VSL50,buontham_gg_1,buồn thảm
+1290,./dataset/train_landmark_files/VSL50.parquet,VSL50,tuchoi_gx_5,từ chối
+1189,./dataset/train_landmark_files/VSL50.parquet,VSL50,thitham_gx_1,thì thầm
+764,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongdep_px_1,không đẹp
+684,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongcan_tx_4,không cần
+1299,./dataset/train_landmark_files/VSL50.parquet,VSL50,tuchoi_px_4,từ chối
+1148,./dataset/train_landmark_files/VSL50.parquet,VSL50,naunuong_tx_2,nấu nướng
+1104,./dataset/train_landmark_files/VSL50.parquet,VSL50,nongtinh_pg_4,nóng tính
+1390,./dataset/train_landmark_files/VSL50.parquet,VSL50,van_px_2,vẫn
+1169,./dataset/train_landmark_files/VSL50.parquet,VSL50,phaikhong_px_2,phải không
+479,./dataset/train_landmark_files/VSL50.parquet,VSL50,hangngay_gx_5,hàng ngày
+1056,./dataset/train_landmark_files/VSL50.parquet,VSL50,nhavesinh_tx_2,nhà vệ sinh
+234,./dataset/train_landmark_files/VSL50.parquet,VSL50,bucminh_px_2,bực mình
+1432,./dataset/train_landmark_files/VSL50.parquet,VSL50,ongba_tx_3,ông bà
+5,./dataset/train_landmark_files/VSL50.parquet,VSL50,bame_gx_1,ba mẹ
+855,./dataset/train_landmark_files/VSL50.parquet,VSL50,ketban_pg_4,kết bạn
+678,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongcan_tg_3,không cần
+947,./dataset/train_landmark_files/VSL50.parquet,VSL50,muonkhong_pg_2,muốn không
+624,./dataset/train_landmark_files/VSL50.parquet,VSL50,không_cho-miền_nam,không cho
+998,./dataset/train_landmark_files/VSL50.parquet,VSL50,mitom_gg_1,mỳ tôm
+594,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongcho_gg_1,không cho
+318,./dataset/train_landmark_files/VSL50.parquet,VSL50,contrai_gg_5,con trai
+1345,./dataset/train_landmark_files/VSL50.parquet,VSL50,voduyen_gg_3,vô duyên
+790,./dataset/train_landmark_files/VSL50.parquet,VSL50,khanang_pg_1,khả năng
+1434,./dataset/train_landmark_files/VSL50.parquet,VSL50,ongba_tx_5,ông bà
+1334,./dataset/train_landmark_files/VSL50.parquet,VSL50,tugiac_tg_3,tự giác
+1518,./dataset/train_landmark_files/VSL50.parquet,VSL50,depkhong(nguoi)_tg_1,đẹp không(người)
+1199,./dataset/train_landmark_files/VSL50.parquet,VSL50,thitham_pg_5,thì thầm
+660,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongcan_gg_5,không cần
+1289,./dataset/train_landmark_files/VSL50.parquet,VSL50,tuchoi_gx_4,từ chối
+781,./dataset/train_landmark_files/VSL50.parquet,VSL50,khanang_gg_2,khả năng
+345,./dataset/train_landmark_files/VSL50.parquet,VSL50,contrai_tx_5,con trai
+96,./dataset/train_landmark_files/VSL50.parquet,VSL50,bangai_gg_3,bạn gái
+996,./dataset/train_landmark_files/VSL50.parquet,VSL50,me_tx_5,mẹ
+154,./dataset/train_landmark_files/VSL50.parquet,VSL50,bantrai_tx_5,bạn trai
+625,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongco_gg_1,không có
+124,./dataset/train_landmark_files/VSL50.parquet,VSL50,bạn gái,bạn gái
+100,./dataset/train_landmark_files/VSL50.parquet,VSL50,bangai_gx_2,bạn gái
+35,./dataset/train_landmark_files/VSL50.parquet,VSL50,buontham_gg_4,buồn thảm
+1080,./dataset/train_landmark_files/VSL50.parquet,VSL50,nenkhong_tg_1,nên không
+674,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongcan_px_4,không cần
+224,./dataset/train_landmark_files/VSL50.parquet,VSL50,bucminh_gx_2,bực mình
+109,./dataset/train_landmark_files/VSL50.parquet,VSL50,bangai_px_1,bạn gái
+199,./dataset/train_landmark_files/VSL50.parquet,VSL50,boiroi_pg_3,bối rồi
+1243,./dataset/train_landmark_files/VSL50.parquet,VSL50,thoiquen_tx_1,thói quen
+1330,./dataset/train_landmark_files/VSL50.parquet,VSL50,tugiac_px_4,tự giác
+1455,./dataset/train_landmark_files/VSL50.parquet,VSL50,dungkhong_px_5,đúng không
+664,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongcan_gx_4,không cần
+1273,./dataset/train_landmark_files/VSL50.parquet,VSL50,thuongxuyen_tg_5,thường xuyên
+1476,./dataset/train_landmark_files/VSL50.parquet,VSL50,depkhong_gx_4,đẹp không
+535,./dataset/train_landmark_files/VSL50.parquet,VSL50,hen_gg_4,hẹn
+1201,./dataset/train_landmark_files/VSL50.parquet,VSL50,thitham_px_2,thì thầm
+1386,./dataset/train_landmark_files/VSL50.parquet,VSL50,van_pg_3,vẫn
+636,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongco_pg_2,không có
+1084,./dataset/train_landmark_files/VSL50.parquet,VSL50,nenkhong_tg_5,nên không
+1440,./dataset/train_landmark_files/VSL50.parquet,VSL50,dungkhong_gg_5,đúng không
+1342,./dataset/train_landmark_files/VSL50.parquet,VSL50,tự_giác,tự giác
+56,./dataset/train_landmark_files/VSL50.parquet,VSL50,buontham_tg_5,buồn thảm
+183,./dataset/train_landmark_files/VSL50.parquet,VSL50,bome_tx_3,bố mẹ
+605,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongcho_pg_2,không cho
+1012,./dataset/train_landmark_files/VSL50.parquet,VSL50,mytom_gg_5,mỳ tôm
+1398,./dataset/train_landmark_files/VSL50.parquet,VSL50,van_tg_5,vẫn
+1444,./dataset/train_landmark_files/VSL50.parquet,VSL50,dungkhong_gx_4,đúng không
+422,./dataset/train_landmark_files/VSL50.parquet,VSL50,cankhong_pg_5,cần không
+847,./dataset/train_landmark_files/VSL50.parquet,VSL50,ketban_gx_1,kết bạn
+1072,./dataset/train_landmark_files/VSL50.parquet,VSL50,nenkhong_pg_3,nên không
+1358,./dataset/train_landmark_files/VSL50.parquet,VSL50,voduyen_px_1,vô duyên
+837,./dataset/train_landmark_files/VSL50.parquet,VSL50,khodai_tx_2,khờ dại
+302,./dataset/train_landmark_files/VSL50.parquet,VSL50,congai_tg_1,con gái
+125,./dataset/train_landmark_files/VSL50.parquet,VSL50,bantrai_gg_1,bạn trai
+465,./dataset/train_landmark_files/VSL50.parquet,VSL50,dunglai_tx_2,dừng lại
+794,./dataset/train_landmark_files/VSL50.parquet,VSL50,khanang_pg_5,khả năng
+549,./dataset/train_landmark_files/VSL50.parquet,VSL50,hen_px_3,hẹn
+668,./dataset/train_landmark_files/VSL50.parquet,VSL50,khongcan_pg_3,không cần
+386,./dataset/train_landmark_files/VSL50.parquet,VSL50,cokhong_gx_5,có không
